@@ -1,0 +1,34 @@
+body{
+    font-family: 'Shizuru', cursive;
+    background-color: palevioletred;
+    counter-reset: gold;
+}
+.header_div {
+    background-color: palevioletred;
+    color: gold;
+
+}
+.header_div p{
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+color: springgreen;
+font-size: bold;
+font-weight: bold;
+letter-spacing: 2px;
+}
+.main_div button{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: top 50px;
+    width: 130px;
+    font-weight: bold;
+    color: steelblue;
+    letter-spacing: 2px;
+}
+.copy_right_footer{
+    position: fixed;
+    font-size: 18px;
+    width: 100%;
+    background-color: darkorchid;
+    line-height: 3;
+    text-align:center;
+    text-shadow: 5px 5px 5px chocolate;
+}
